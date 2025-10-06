@@ -1,0 +1,25 @@
+# Build and output directories
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment or secret files
+*.env
+*.key
+*.properties
